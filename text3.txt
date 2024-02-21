@@ -1,1 +1,2 @@
 pertemuan 1 
+update text3
